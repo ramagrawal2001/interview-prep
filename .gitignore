@@ -1,0 +1,19 @@
+.DS_Store
+
+# Terraform
+**/.terraform/
+**/*.tfstate
+**/*.tfstate.*
+
+# Python
+venv/
+.env
+**/__pycache__/
+**/*.py[cod]
+*$py.class
+.Python
+*.so
+.idea/
+.vscode/
+*.swp
+*.swo
